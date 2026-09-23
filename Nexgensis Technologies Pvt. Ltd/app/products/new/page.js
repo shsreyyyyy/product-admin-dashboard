@@ -1,0 +1,1 @@
+import ProductForm from "@/components/ProductForm"; export default function New(){return <><h1 className="mb-5 text-2xl font-bold">Add Product</h1><ProductForm/></>}
